@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imansamani
 - 👀 I’m interested in Software Development, Machine Learning, Computational Sciences
-- 🌱 I’m currently developing high order accurate fast algorithms for multidimensional linear/nonlinear numerical modeling
+- 🌱 I’m currently developing high order accurate scalable algorithms for multidimensional linear/nonlinear numerical modeling
 - 📫 How to reach me: isamani@umich.edu
 
 <!---
